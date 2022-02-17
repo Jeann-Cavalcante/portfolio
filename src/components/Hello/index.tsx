@@ -1,4 +1,4 @@
-import AvatarBracoCruzado from "../../assets/bracoCruzadoFundoEscuro.jpeg";
+import AvatarBracoCruzado from "../../assets/bracoCruzado.png";
 import { Container } from "./style";
 
 export function Hello() {

@@ -42,4 +42,10 @@ export const Global = createGlobalStyle`
     text-align: center;
   }
 
+  hr {
+    border: 0.5px solid var(--text);
+    
+    margin-top: 5rem;
+  }
+
 `;
